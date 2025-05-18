@@ -1,0 +1,12 @@
+{
+  "name": "livecomm",
+  "version": "1.0.0",
+  "description": "LiveComm is a real-time chat platform built with Node.js and raw WebSockets. It enables admins to create customizable chat rooms and allows users to send messages, upvote them, and highlight important discussions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
